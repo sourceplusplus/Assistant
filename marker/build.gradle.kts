@@ -32,7 +32,7 @@ dependencies {
     implementation("com.google.guava:guava:30.1.1-jre")
     implementation("org.jetbrains:annotations:22.0.0")
     compileOnly("org.slf4j:slf4j-api:1.7.32")
-    compileOnly("org.jetbrains.intellij.deps.jcef:jcef:89.0.12-g2b76680-chromium-89.0.4389.90-api-1.5")
+    compileOnly("org.jetbrains.intellij.deps.jcef:jcef:89.0.12-g2b76680-chromium-89.0.4389.90-api-1.6")
     compileOnly("com.jetbrains.intellij.platform:util-ui:$intellijVersion") { isTransitive = false }
     compileOnly("com.jetbrains.intellij.platform:analysis:$intellijVersion") { isTransitive = false }
     compileOnly("com.jetbrains.intellij.java:java-analysis:$intellijVersion") { isTransitive = false }

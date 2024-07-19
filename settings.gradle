@@ -1,6 +1,6 @@
 pluginManagement {
     plugins {
-        String kotlinVersion = "1.8.22"
+        String kotlinVersion = "1.9.25"
         id 'org.jetbrains.kotlin.jvm' version kotlinVersion apply false
         id 'com.avast.gradle.docker-compose' version "0.17.4" apply false
         id 'io.gitlab.arturbosch.detekt' version "1.23.0" apply false

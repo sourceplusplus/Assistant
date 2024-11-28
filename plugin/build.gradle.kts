@@ -4,7 +4,7 @@ import java.net.URL
 plugins {
     id("java")
     id("org.jetbrains.kotlin.jvm")
-    id("org.jetbrains.changelog") version "2.1.2"
+    id("org.jetbrains.changelog") version "2.2.0"
 }
 
 val joorVersion: String by project

@@ -94,7 +94,7 @@ dependencies {
     implementation("com.fasterxml.jackson.datatype:jackson-datatype-guava:$jacksonVersion")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin:$jacksonVersion")
     implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:$jacksonVersion")
-    implementation("io.dropwizard.metrics:metrics-core:4.2.19")
+    implementation("io.dropwizard.metrics:metrics-core:4.2.30")
     implementation("org.jooq:joor:$joorVersion")
     implementation("org.eclipse.mylyn.github:org.eclipse.egit.github.core:2.1.5")
     implementation("org.apache.commons:commons-lang3:3.13.0")

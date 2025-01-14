@@ -48,6 +48,6 @@ dependencies {
     compileOnly("plus.sourceplus:protocol:$protocolVersion")
     compileOnly("io.vertx:vertx-core:$vertxVersion")
     compileOnly("io.vertx:vertx-lang-kotlin-coroutines:$vertxVersion")
-    compileOnly("io.dropwizard.metrics:metrics-core:4.2.19")
+    compileOnly("io.dropwizard.metrics:metrics-core:4.2.30")
     compileOnly("org.jooq:joor:$joorVersion")
 }
